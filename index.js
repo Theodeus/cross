@@ -7,6 +7,7 @@
     var height = root.innerHeight;
     var halfWidth = width / 2;
     var halfHeight = height / 2;
+    
     canvas.width = width;
     canvas.height = height;
 
